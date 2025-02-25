@@ -1,3 +1,4 @@
 git allows to combine branches
 we will merge main and 2nd bracnch
 How to use push and pull operations
+Making changes via github interface
