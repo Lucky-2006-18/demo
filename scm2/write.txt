@@ -1,1 +1,2 @@
 git allows to combine branches
+we will merge main and 2nd bracnch
